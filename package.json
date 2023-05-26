@@ -1,0 +1,9 @@
+{
+  "name": "app-without-name",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "web",
+    "mobile"
+  ]
+}
